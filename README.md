@@ -1,4 +1,4 @@
-## Oi eu sou o André Fanaia, Programador Full Stack!
+## Oi eu sou o André Luis, Programador Full Stack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
